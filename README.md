@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello Folks!!👋
+### I'm HariChandana and I'm a CSE student at SRMIST,Chennai. I'm from AndhraPradesh, India. I'm a mediocre girl and fascinated to solve real world problems and quite interested to collaborate.
 
-- 😁 I'm currently pursuing my UnderGraduation in SRMIST KTR.
+- 😁 I'm currently pursuing my UnderGraduation 
 - 🌱 I'm currently learning Web Development and ComputerVision
 - 🤔 I'm looking for help with open Source Contributions
 - 🔭 I'm currently working on Web development and Computer Vision
